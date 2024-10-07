@@ -6,9 +6,18 @@
 
 | Apellidos y Nombres | Rol |
 |---------------------|-----|
-|Chaupis Fernando Rodrigo
-|Paytan Huaman, Jheyson Paul
-|Solis Egoavil Gabriel Ernesto
-|Quispe Cesar
-|Rojas Lara Jack Alexander
+|Chaupis Fernando Rodrigo | Testeador |
+|Paytan Huaman, Jheyson Paul | Programador |
+|Rojas Lara Jack Alexander | Analista |
+|Quispe Zarate Julio Cesar | Líder |
+|Solis Egoavil Gabriel Ernesto | Desarrollador |
+
+## Construccion De Software / 15970
+
+## Docente De Asignatura
+
+|Gamarra Moreno Daniel | Encargado de la asignatura |
+
+
+
 
