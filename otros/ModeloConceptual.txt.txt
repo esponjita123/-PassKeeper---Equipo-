@@ -1,0 +1,64 @@
+@startuml
+class Usuario {
+  + idUsuario: String
+  + nombre: String
+  + email: String
+  --
+  + getIdUsuario(): String
+  + setIdUsuario(id: String): void
+  + getNombre(): String
+  + setNombre(nombre: String): void
+  --
+  + Usuario()
+}
+
+class Contraseña {
+  + idContraseña: String
+  + nombreCuenta: String
+  + contrasenaCifrada: String
+  --
+  + getIdContraseña(): String
+  + setIdContraseña(id: String): void
+  + getNombreCuenta(): String
+  + setNombreCuenta(nombre: String): void
+  --
+  + Contraseña()
+}
+
+class Categoria {
+  + idCategoria: String
+  + nombreCategoria: String
+  --
+  + getIdCategoria(): String
+  + setIdCategoria(id: String): void
+  --
+  + Categoria()
+}
+
+class RegistroUso {
+  + idRegistro: String
+  + fecha: Date
+  + accion: String
+  --
+  + getIdRegistro(): String
+  + setIdRegistro(id: String): void
+  --
+  + RegistroUso()
+}
+
+class Configuracion {
+  + idConfiguracion: String
+  + opciones: String
+  --
+  + getIdConfiguracion(): String
+  + setIdConfiguracion(id: String): void
+  --
+  + Configuracion()
+}
+
+Usuario "1" -- "0..*" Contraseña : "tiene"
+Contraseña "1" -- "1" Categoria : "pertenece a"
+Usuario "1" -- "0..*" RegistroUso : "realiza"
+Usuario "1" -- "1" Configuracion : "tiene"
+
+@enduml
