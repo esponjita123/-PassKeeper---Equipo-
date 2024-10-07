@@ -16,6 +16,15 @@ Este proyecto busca no solo cumplir con los requisitos académicos, sino tambié
 
 ##
 
+# Objetivos
+
+- Desarrollar un sistema de gestión de contraseñas que permita a los usuarios almacenar, gestionar y cifrar credenciales de forma segura.
+- Implementar funcionalidades clave como la adición, edición, eliminación y visualización de contraseñas, con opciones avanzadas de categorización y autenticación multifactor.
+- Utilizar algoritmos de cifrado robustos para proteger la información almacenada en la base de datos.
+- Aplicar metodologías ágiles para gestionar el ciclo de vida del proyecto desde los requisitos hasta la implementación final.
+
+##
+
 ## Construccion De Software / 15970
 
 ## 
