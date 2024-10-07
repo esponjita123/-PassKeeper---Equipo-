@@ -1,7 +1,6 @@
 # Proyecto de fin de curso “PassKeeper”
 
-
-# # Introducción
+# Introducción
 
 El presente trabajo tiene como finalidad la elaboración de un sistema de gestión de contraseñas que permita a los usuarios almacenar, cifrar y gestionar de forma segura sus credenciales. Este proyecto forma parte de la evaluación final del curso y abarca desde la definición de requisitos hasta el desarrollo e implementación de las funcionalidades principales, utilizando metodologías ágiles.
 
