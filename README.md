@@ -25,10 +25,10 @@ Este proyecto busca no solo cumplir con los requisitos académicos, sino tambié
 | Apellidos y Nombres | Rol |
 |---------------------|-----|
 |Chaupis Fernando Rodrigo | SCRUM MASTER |
-|Paytan Huaman, Jheyson Paul | Desarolaldor |
-|Rojas Lara Jack Alexander | Desarolaldor |
-|Quispe Zarate Julio Cesar | Desarolaldor |
-|Solis Egoavil Gabriel Ernesto | Desarrollador |
+|Paytan Huaman, Jheyson Paul | Desarollador |
+|Rojas Lara Jack Alexander | Desarollador |
+|Quispe Zarate Julio Cesar | Desarollador |
+|Solis Egoavil Gabriel Ernesto | Desarollador |
 
 
 ## Docente De Asignatura
