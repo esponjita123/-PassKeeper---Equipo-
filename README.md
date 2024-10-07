@@ -16,7 +16,8 @@
 
 
 ## Docente De Asignatura
-
+| Apellidos y Nombres | Rol |
+|---------------------|-----|
 |Gamarra Moreno Daniel | Encargado de la asignatura |
 
 
