@@ -27,10 +27,6 @@
 - **Ver lista de contraseñas**: Visualización de todas las contraseñas almacenadas.  
 - **Cifrar contraseñas**: Cifrado de contraseñas para proteger los datos.  
 - **Autenticación de usuario**: Requiere autenticarse antes de acceder.  
-- **Exportar/Importar contraseñas**: Copia de seguridad y restauración de contraseñas.  
-- **Categorizar contraseñas**: Organización por categorías como trabajo o personal.  
-- **Generar contraseñas seguras**: Generación automática de contraseñas robustas.  
-- **Protección multifactor**: Implementación de autenticación multifactor.  
 
 # Modelo Conceptual
 
